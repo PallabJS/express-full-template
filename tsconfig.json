@@ -1,0 +1,12 @@
+{
+    "exclude": ["./node_modules"],
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "CommonJS",
+        "rootDir": "./",
+        "outDir": "./build",
+        "esModuleInterop": true,
+        "strict": true,
+        "moduleResolution": "node"
+    }
+}
